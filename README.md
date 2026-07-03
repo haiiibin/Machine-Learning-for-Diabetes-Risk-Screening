@@ -4,6 +4,8 @@ This project implements a **two-stage machine learning pipeline for early diabet
 
 ---
 
+![Feature importance](images/diabetes_results.png)
+
 ## 🔬 Project Overview
 Early detection of diabetes is critical for preventing long-term complications. However, laboratory testing is expensive and time-intensive. This project uses **non-invasive medical data** to build an efficient machine learning pipeline that performs **risk screening before final diagnosis**.
 
