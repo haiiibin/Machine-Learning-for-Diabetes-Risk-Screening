@@ -29,3 +29,7 @@ Early detection of diabetes is critical for preventing long-term complications. 
 - scikit-learn
 - pandas, numpy
 - matplotlib
+
+---
+
+_Part of my portfolio: [haiiibin.github.io](https://haiiibin.github.io)_
